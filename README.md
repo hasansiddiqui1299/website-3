@@ -7,7 +7,7 @@
 - 🧠 I specialize in **CI/CD, Cloud Infrastructure, Linux Systems, and Full Stack Development**
 - 🌐 I love automating systems and building scalable solutions
 - 💬 Ask me about **DevOps Tools, System Architecture, or Backend Engineering**
-- 📫 Reach me at: **[youremail@example.com]**
+- 📫 Reach me at: **[hasansiddiqui1299@gmail.com]**
 - 🌍 Portfolio: [Your Portfolio Link Here]
 
 ---
@@ -48,10 +48,10 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/hasan-siddiqui-3b1193220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:hasansiddiqui@1299@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
